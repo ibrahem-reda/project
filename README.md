@@ -1,4 +1,4 @@
 # Python Training Projects
-Training on the if conditional
+<li>Training on the if conditional</li>
 <br>
-Nested if statements
+<li>Nested if statements</li>
