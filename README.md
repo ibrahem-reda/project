@@ -1,2 +1,2 @@
-# project
-license
+# Python Training Projects
+Training on the if conditional
